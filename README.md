@@ -26,4 +26,15 @@ Welcome to WebWhiz! This project showcases my passion for web development throug
 8. Portfolio Website
    - [Live Preview](https://izzahhere.wordpress.com/)
    - Languages: Wordpress
-
+9. Fiddle App
+   - [Live Preview](https://fiddle-add.netlify.app/)
+10. Fiddle App
+   - [Live Preview](https://fiddle-add.netlify.app/)
+11. Showcasin skills ( Portfolio )
+   - [Live Preview](https://showcasing-skills.netlify.app/)
+12. Animated Form
+   - [Live Preview](https://animatedformby-jaswon.netlify.app/)
+13. Animals Img Generator 
+   - [Live Preview](https://img-se.netlify.app/)
+14. Animals Img Generator 
+   - [Live Preview](https://img-se.netlify.app/)
