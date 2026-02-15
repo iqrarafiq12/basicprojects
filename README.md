@@ -10,4 +10,4 @@ Welcome to WebWhiz! This project showcases my passion for web development throug
    - [Live Preview](https://temprature-converterrr.netlify.app/)
 3. MEMORY GAME ( HTML, CSS & JAVASCRIPT )
    - [Project Folder](https://github.com/iqrarafiq12/basicprojects/tree/main/Memory%20Game)
-   - [Live Preview]([[https://temprature-converterrr.netlify.app/](https://memorygame-byirk.netlify.app/)](https://roaring-muffin-d18799.netlify.app/))
+   - [Live Preview](memorygame-byirk.netlify.app)
