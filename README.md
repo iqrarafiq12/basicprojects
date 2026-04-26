@@ -28,5 +28,3 @@
    - [Live Preview](https://animatedformby-jaswon.netlify.app/)
 11. Animals Img Generator 
    - [Live Preview](https://img-se.netlify.app/)
-12. Animals Img Generator 
-   - [Live Preview](https://img-se.netlify.app/)
