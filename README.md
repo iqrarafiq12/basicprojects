@@ -22,15 +22,11 @@
 8. Portfolio Website
    - [Live Preview](https://izzahhere.wordpress.com/)
    - Languages: Wordpress
-9. Fiddle App
-   - [Live Preview](https://fiddle-add.netlify.app/)
-10. Fiddle App
-   - [Live Preview](https://fiddle-add.netlify.app/)
-11. Showcasin skills ( Portfolio )
+9. Showcasin skills ( Portfolio )
    - [Live Preview](https://showcasing-skills.netlify.app/)
-12. Animated Form
+10. Animated Form
    - [Live Preview](https://animatedformby-jaswon.netlify.app/)
-13. Animals Img Generator 
+11. Animals Img Generator 
    - [Live Preview](https://img-se.netlify.app/)
-14. Animals Img Generator 
+12. Animals Img Generator 
    - [Live Preview](https://img-se.netlify.app/)
